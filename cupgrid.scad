@@ -10,6 +10,7 @@ rows =3;
 columns=4;
 //height of seedling cups
 height = 76.2;
+//number of sides for every cup
 $fn=40;
 //base thickness
 basethickness = 2;
